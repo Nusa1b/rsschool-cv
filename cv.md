@@ -3,7 +3,7 @@
 ### Contact info:
 #### Email:aibarnussipbek@gmail.com
 #### Discord:nusaib.
-[Github](https://github.com/Nusa1b)
+[Github](https://github.com/Nussaib)
 ### About
 #### I want to become a good front-end developer
 ### Languages:
